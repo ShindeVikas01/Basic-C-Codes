@@ -22,10 +22,9 @@ int main()
 	{
 		printf("\n Enjoy your Cold Coffee and paid 30/-Rs.");
 	}
-	}
 	else if(sel==4)
 	{
-		printf("\n Thank you for Visit");
+		printf("\n Thank you Visit Again");
 	}
 	else
 	{
