@@ -1,4 +1,4 @@
-//
+// Check password condition like Uppercase, Lowercase, Digit, Special character and password length
 
 #include<stdio.h>
 int main()
